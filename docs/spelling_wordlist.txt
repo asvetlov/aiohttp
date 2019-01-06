@@ -122,6 +122,7 @@ ip
 IP
 ipdb
 IPv
+initializer
 ish
 iterable
 iterables
